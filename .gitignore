@@ -1,6 +1,6 @@
 *.pdf
 *.docx
-Project_guidance.mp4
+*.mp4
 /Include/
 /Lib/
 /Scripts/
